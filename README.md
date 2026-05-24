@@ -1,6 +1,6 @@
-NIM    : 2410501058;
-Nama   : Rayhan Rivalino;
-Kelas  : B;
+NIM    : 2410501058
+Nama   : Rayhan Rivalino
+Kelas  : B
 
 Screenshot
 <img width="1080" height="2280" alt="Screenshot_20260524_174344" src="https://github.com/user-attachments/assets/0a15cd15-6171-418c-a869-0da0db365047" />
